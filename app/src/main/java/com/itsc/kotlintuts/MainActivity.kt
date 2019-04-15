@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         // different types of onClickListener initializition ways
 //        btnClick.setOnClickListener(View.OnClickListener { view: View? -> onClick() })
 //        btnClick.setOnClickListener({ view: View? -> onClick() })
